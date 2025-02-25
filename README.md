@@ -22,6 +22,7 @@
 
 ## Демонстрация работы
 ![Alt Text](https://i.postimg.cc/0NXv875w/2025-02-25-215751.png)
+![Alt Text](https://i.postimg.cc/MGCsbGdL/2025-02-25-220259.png)
 
 ## Требования
 
